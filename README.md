@@ -5,6 +5,8 @@
 - 🤝 Looking forward to collaborating on innovative projects and Hackathons.
 - 🤔 Actively seeking mentorship in Data Structures and Algorithms to refine my problem-solving skills.
 
+&emsp;&emsp;&ensp; [![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-ff0066?style=flat&logoColor=white)](https://harshchouhan3122.github.io/Portfolio-Website/)  &ensp; [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/harshchouhan3122)  &ensp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/harshchouhan3122)   &ensp;  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/harsh3122/)
+
 ---
 
 🛠️ **Internship Experience:**
@@ -62,8 +64,6 @@ July 2022 – Aug 2022 | DRDO, Delhi
 **Software & Tools:** Git/GitHub, PyQT Designer, Excel, Figma, Canva, MATLAB, BusMaster(CAN), EasyEDA
 
 ---
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-ff0066?style=flat&logoColor=white)](https://harshchouhan3122.github.io/Portfolio-Website/)  &ensp; [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/harshchouhan3122)  &ensp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/harshchouhan3122)   &ensp;  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/harsh3122/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshchouhan3122&theme=onedark&title=-Followers,-Reviews,-Issues&margin-w=15)]()
 
