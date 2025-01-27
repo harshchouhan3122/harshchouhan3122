@@ -29,12 +29,12 @@ July 2022 – Aug 2022 | DRDO, Delhi
 **Chatty - Realtime Chat App** *(React, Tailwind CSS, MongoDB, JWT, Socket.io, ExpressJS)*  
 - Built a real-time chat app using MERN stack with Zustand for efficient state management.
 - Features include user authentication, image sharing, profile management, responsive design, and theme selection using DaisyUI.  
-[Project Link](#)
+[Project Link](https://realtime-chat-app-kw74.onrender.com/)
 
 **Wanderlust** *(Bootstrap, EJS, MongoDB, JS, Cloudinary, Leaflet, Nodemailer)*  
 - Engineered a rental platform website for listing accommodations with CRUD operations and OTP authentication.
 - Integrated Leaflet for interactive mapping and optimized file uploads using Multer.  
-[Project Link](#)
+[Project Link](https://wanderlust-harsh.onrender.com/)
 
 **Helmet Detection & Challan System** *(Computer Vision, Embedded Systems)*  
 - AI-driven system detecting helmetless riders, capturing license plates, and issuing challans to improve road safety.
