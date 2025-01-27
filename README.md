@@ -65,7 +65,7 @@ July 2022 – Aug 2022 | DRDO, Delhi
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-ff0066?style=flat&logoColor=white)](https://harshchouhan3122.github.io/Portfolio-Website/)  &ensp; [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/harshchouhan3122)  &ensp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/harshchouhan3122)   &ensp;  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/harsh3122/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshchouhan3122&theme=onedark&title=-Followers,-Reviews,-Issues&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshchouhan3122&theme=onedark&title=-Followers,-Reviews,-Issues&margin-w=15)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshchouhan3122&layout=compact)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshchouhan3122&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshchouhan3122&layout=compact) &ensp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshchouhan3122&show_icons=true)  
 
